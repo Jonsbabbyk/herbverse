@@ -25,8 +25,7 @@ The inspiration for HerbVerse stems from the growing global interest in natural 
 - **Database**: PostgreSQL (for profiles, orders, inventory management)
 - **Authentication**: Role-based login (Vendor or Customer)
 - **Hosting**: 
-  - Frontend: [Vercel](https://vercel.com)
-  - Backend: [Render](https://render.com)
+  Typescript
 
 ### Future Goals
 - Integrating real payment gateways like Stripe or M-Pesa
