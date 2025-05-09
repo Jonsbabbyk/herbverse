@@ -1,0 +1,38 @@
+export const herbalists = [
+  {
+    id: '1',
+    name: 'Dr. Sarah Chen',
+    specialty: 'Clinical Herbalist',
+    image: 'https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg',
+    rating: 4.9,
+    price: 75,
+    availability: ['Mon', 'Wed', 'Fri'],
+  },
+  {
+    id: '2',
+    name: 'James Wilson',
+    specialty: 'Holistic Nutritionist',
+    image: 'https://images.pexels.com/photos/5721078/pexels-photo-5721078.jpeg',
+    rating: 4.7,
+    price: 65,
+    availability: ['Tue', 'Thu', 'Sat'],
+  },
+  {
+    id: '3',
+    name: 'Maria Lopez',
+    specialty: 'Ayurvedic Practitioner',
+    image: 'https://images.pexels.com/photos/5327921/pexels-photo-5327921.jpeg',
+    rating: 4.8,
+    price: 80,
+    availability: ['Mon', 'Tue', 'Thu'],
+  },
+  {
+    id: '4',
+    name: 'Dr. Robert Kim',
+    specialty: 'TCM Specialist',
+    image: 'https://images.pexels.com/photos/5452201/pexels-photo-5452201.jpeg',
+    rating: 4.6,
+    price: 85,
+    availability: ['Wed', 'Fri', 'Sat'],
+  },
+];
