@@ -20,12 +20,7 @@ The inspiration for HerbVerse stems from the growing global interest in natural 
   - Interact with customers without needing technical skills
 
 ## Tech Stack
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Flask API (for user authentication, vendor data, and product listings)
-- **Database**: PostgreSQL (for profiles, orders, inventory management)
-- **Authentication**: Role-based login (Vendor or Customer)
-- **Hosting**: 
-  Typescript
+- typescript
 
 ### Future Goals
 - Integrating real payment gateways like Stripe or M-Pesa
